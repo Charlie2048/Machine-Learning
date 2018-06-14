@@ -1,2 +1,2 @@
-# pattern-recognition
+# Machine-Learning
 A learning history of Charlie
